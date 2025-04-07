@@ -2,7 +2,7 @@
 ## Project Brief
 KarriereAI is a machine learning model designed to determine a suitable technological career path for a user based on their skills and interests.
 This is a project done through the course Deep Learning Engineering at Western Norway University of Applied Sciences. 
-The report  written in accordance with this model implementation is a part of the final-grade of said course.
+The report, written in accordance with this model implementation, is a part of the final-grade of said course.
 
 ## Purpose
 The purpose and goal of this neural network is to predict a fitting job title based on input from a user through an interactive quiz. 
