@@ -6,11 +6,12 @@ The report  written in accordance with this model implementation is a part of th
 
 ## Purpose
 The purpose and goal of this neural network is to predict a fitting job title based on input from a user through an interactive quiz. 
-The quiz is designed to define the user's skills, and will forward said skills to the model to make predictions on them. 
-This is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
+This model is a part of a bigger marketing campaign aimed to motivate women to work within the technological field and take up careers in software development inter alia.
 
 ## Model Architecture and Implementation
 The model is a feed-forward neural network (FNN) implemented through a simple sequential network of dense layers, working as a classifier of skills to job titles in the tech market. 
+The interactive quiz is designed to define the user's skills, and will forward said skills to the model to make predictions on them. 
+This is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
 
 ## Dataset
 The dataset used for training contains job titles which are matched up against relevant skills. 
