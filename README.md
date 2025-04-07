@@ -11,7 +11,7 @@ This model is a part of a bigger marketing campaign aimed to motivate women to w
 ## Architecture, Implementation and Deployment
 The model is a feed-forward neural network (FNN) implemented through a simple sequential network of dense layers, working as a classifier of skills to job titles in the tech market. 
 Pre-processing of data to fit the model contains normalization and encoding of the content.
-<br/>
+<br/><br/>
 The interactive quiz is designed to define the user's skills, and will forward said skills to the model to make predictions on them. 
 It is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
 
