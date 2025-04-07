@@ -8,14 +8,19 @@ The report  written in accordance with this model implementation is a part of th
 The purpose and goal of this neural network is to predict a fitting job title based on input from a user through an interactive quiz. 
 This model is a part of a bigger marketing campaign aimed to motivate women to work within the technological field and take up careers in software development inter alia.
 
-## Model Architecture and Implementation
+## Architecture, Implementation and Deployment
 The model is a feed-forward neural network (FNN) implemented through a simple sequential network of dense layers, working as a classifier of skills to job titles in the tech market. 
+Pre-processing of data to fit the model contains normalization and encoding of the content.
+<br/>
 The interactive quiz is designed to define the user's skills, and will forward said skills to the model to make predictions on them. 
-This is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
+It is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
 
 ## Dataset
 The dataset used for training contains job titles which are matched up against relevant skills. 
 The file itself is from Van-Duyet (et al., 2019), which is a dataset used in a sub-part of their Skills2vec model architecture.
+
+## Evaluation
+To evaluate the performance of the model, standard metrics like accuracy, precision and recall will be used. In addition, a confusion matrix and an F1 score will be used.
 
 ## How to Recreate and Run the Model
 TBD.
