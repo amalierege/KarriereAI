@@ -1,0 +1,100 @@
+java
+c++
+j2ee
+python
+javascript
+jee
+quality
+linux
+c#
+sql
+j2me
+javase
+javame
+c
+qa
+validation
+marketing
+ruby
+unix
+hadoop
+css
+capa
+sales
+html
+mobile
+gcp
+regulatory
+clinical
+android
+quality assurance
+big data
+j2seb
+javaee
+aws
+cloud
+ra
+ios
+machine learning
+digital
+security
+design
+software development
+consultant
+clinical trial
+distributed systems
+manager
+j2se
+perl
+html5
+regulatory affairs
+clinical research
+manufacturing
+clinical trials
+java script
+javaseb
+hive
+advertising
+qc
+finance
+business development
+ux
+aseptic
+product
+ich
+nosql
+games
+java-script
+mapreduce
+web services
+object oriented
+software
+gmp
+objective-c
+quality control
+ui
+media
+mysql
+backend
+.net
+pricing
+jquery
+audit
+bash
+monitoring
+networking
+oncology
+sop
+data
+ood
+project management
+scala
+fda
+game
+test
+csv
+automation
+e-commerce
+computer science
+english
+consulting
