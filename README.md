@@ -17,7 +17,7 @@ It is a part of a bachelor's project implemented in Vue.js front-end framework, 
 
 ## Dataset
 The dataset used for training contains job titles which are matched up against relevant skills. 
-The file itself is from Van-Duyet (et al., 2019), which is a dataset used in a sub-part of their Skills2vec model architecture.
+The file itself is from Van-Duyet (et al., 2017), which is a dataset used in a sub-part of their Skills2vec model architecture.
 
 ## Evaluation
 To evaluate the performance of the model, standard metrics like accuracy, precision and recall will be used. In addition, a confusion matrix and an F1 score will be used.
@@ -26,4 +26,8 @@ To evaluate the performance of the model, standard metrics like accuracy, precis
 TBD.
 
 ## References
-Van-Duyet, L., Quan, V. M., An, D. Q. (2019). Skill2vec: Machine Learning Approach for Determining the Relevant Skills from Job Description. [Data set]. https://arxiv.org/pdf/1707.09751
+Rege, A., Markhus, B. & Ceballos, A. (2024). *Fruitoo* [Code Repository]. https://www.kaggle.com/code/amalierege/fruit-bonanza#Fruitoo
+<br/>
+Shamim, A. (2025, b). *AI_Career_Recommendation_EDA_ML* [Code Repository]. https://www.kaggle.com/code/adilshamim8/ai-career-recommendation-eda-ml 
+<br/>
+Van-Duyet, L., Quan, V. M. & An, D. Q. (2017). *Skill2vec: Machine Learning Approach for Determining the Relevant Skills from Job Description* [Data set]. https://arxiv.org/pdf/1707.09751
