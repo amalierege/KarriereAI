@@ -10,7 +10,7 @@ This model is a part of a bigger marketing campaign aimed to motivate women to w
 
 ## Architecture, Implementation and Deployment
 The model is a feed-forward neural network (FNN) implemented through a simple sequential network of dense layers, working as a classifier of skills to job titles in the tech market. 
-Pre-processing of data to fit the model contains normalization and encoding of the content.
+Pre-processing of data is used before fitting the model, and contains normalization and encoding of the content.
 <br/><br/>
 The interactive quiz is designed to define the user's skills, and will forward said skills to the model to make predictions on them. 
 It is a part of a bachelor's project implemented in Vue.js front-end framework, which will be used to deploy the model.
@@ -23,7 +23,16 @@ The file itself is from Van-Duyet (et al., 2017), which is a dataset used in a s
 To evaluate the performance of the model, standard metrics like accuracy, precision and recall will be used. In addition, a confusion matrix and an F1 score will be used.
 
 ## How to Recreate and Run the Model
-TBD.
+The model requires the following frameworks to be installed using pip, in addition to Python:
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Scikit-learn
+- Seaborn
+- MatPlot
+
+Version 3.1 of the Jupyter Notebook is the final product.
 
 ## References
 Rege, A., Markhus, B. & Ceballos, A. (2024). *Fruitoo* [Code Repository]. https://www.kaggle.com/code/amalierege/fruit-bonanza#Fruitoo
