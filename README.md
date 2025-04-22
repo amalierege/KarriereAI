@@ -28,6 +28,7 @@ These files are the final versions of the model and Jupyter Notebook:
 - Notebook - KarriereAI_v3.1.keras
 
 To run the notebook, make sure to create a virtual environment and install all the required frameworks listed in the requirements.txt file. Make sure to fetch the correct version of Python through the file as well.
+<br/><br/>
 *Note: You may experience that TensorFlow.js is incompatible with Windows OS, and requires a UNIX-based OS. Make sure to remove this from the requirements file if that's the case.*
 
 ## References
