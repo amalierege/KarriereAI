@@ -23,16 +23,13 @@ The file itself is from Van-Duyet (et al., 2017), which is a dataset used in a s
 To evaluate the performance of the model, standard metrics like accuracy, precision and recall will be used. In addition, a confusion matrix and an F1 score will be used.
 
 ## How to Recreate and Run the Model
-The model requires the following frameworks to be installed using pip, in addition to Python:
-- TensorFlow
-- Keras
-- NumPy
-- Pandas
-- Scikit-learn
-- Seaborn
-- MatPlot
+These files are the final versions of the model and Jupyter Notebook:
+- Model - karriereai_model_finished.keras
+- Notebook - KarriereAI_v3.1.keras
 
-Version 3.1 of the Jupyter Notebook is the final product.
+To run the notebook, make sure to create a virtual environment and install all the required frameworks listed in the requirements.txt file. Make sure to fetch the correct version of Python through the file as well.
+<br/><br/>
+*Note: You may experience that TensorFlow.js is incompatible with Windows OS, and requires a UNIX-based OS. Make sure to remove this from the requirements file if that's the case.*
 
 ## References
 Rege, A., Markhus, B. & Ceballos, A. (2024). *Fruitoo* [Code Repository]. https://www.kaggle.com/code/amalierege/fruit-bonanza#Fruitoo
