@@ -1,0 +1,100 @@
+software developer
+project manager
+quality assurance
+contractor
+lead developer
+clinical trial manager
+finance manager
+consultant
+manager
+business manager
+system engineer
+data scientist
+site reliability engineer
+web developer
+devops engineer
+regulatory affairs
+marketing
+freelance
+clinical research associate
+associate director
+
+network engineer
+biostatistician
+clinical operations manager
+automation engineer
+;swe
+;account
+*media planner
+;software programmer
+;sales director
+;bioprocess scientist
+;senior developer
+;regulatory affairs specialist
+;software
+;principal software engineer
+;quality operations
+*mobile developer
+;assistant media planner
+*big data engineer
+;sales planner
+;associate digital planner
+;designer
+;sales executive
+;ux designer
+;javascript engineer
+;validation
+;frontend engineer
+;site reliability
+;drug safety
+*validation engineer
+;sale
+;javascript developer
+*associate strategist
+*3d artist
+;ios engineer
+;fae
+;accounts
+*test engineer
+;data science
+;application engineer
+;software architect
+;business analyst
+pharmacovigilance
+;fullstack engineer
+*business
+operations engineer
+;accounting manager
+;ae
+engineer manager
+sas programmer
+dev ops
+backend engineer
+software engineering
+sr. engineering manager
+site manager
+sme
+account executive
+android engineer
+sales engineer
+senior scientist
+auditor
+ux engineer
+front-end developer
+contract manager
+contracts manager
+cta
+infrastructure engineer
+researcher
+senior product manager
+clinical studies manager
+senior software developer
+release engineer
+ui/ux engineer
+tpm
+sw manager
+software engineer in test
+technical writer
+data analyst
+ui engineer
+environment artist
